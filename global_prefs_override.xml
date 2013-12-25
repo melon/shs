@@ -1,0 +1,34 @@
+<global_preferences>
+   <run_on_batteries>0</run_on_batteries>
+   <run_if_user_active>1</run_if_user_active>
+   <run_gpu_if_user_active>0</run_gpu_if_user_active>
+   <idle_time_to_run>3</idle_time_to_run>
+   <start_hour>0</start_hour>
+   <end_hour>0</end_hour>
+   <net_start_hour>0</net_start_hour>
+   <net_end_hour>0</net_end_hour>
+   <leave_apps_in_memory>1</leave_apps_in_memory>
+   <confirm_before_connecting>0</confirm_before_connecting>
+   <hangup_if_dialed>0</hangup_if_dialed>
+   <dont_verify_images>0</dont_verify_images>
+   <work_buf_min_days>0.2</work_buf_min_days>
+   <work_buf_additional_days>0.3</work_buf_additional_days>
+   <disk_interval>60</disk_interval>
+   <disk_max_used_gb>10</disk_max_used_gb>
+   <disk_max_used_pct>50</disk_max_used_pct>
+   <disk_min_free_gb>0.5</disk_min_free_gb>
+   <vm_max_used_pct>50</vm_max_used_pct>
+   <ram_max_used_busy_pct>50</ram_max_used_busy_pct>
+   <ram_max_used_idle_pct>75</ram_max_used_idle_pct>
+   <max_bytes_sec_up>0</max_bytes_sec_up>
+   <max_bytes_sec_down>0</max_bytes_sec_down>
+
+   <max_cpus>7</max_cpus>
+   <max_ncpus_pct>80</max_ncpus_pct>
+   <cpu_usage_limit>80</cpu_usage_limit>
+   <suspend_cpu_usage>50</suspend_cpu_usage>
+   <cpu_scheduling_period_minutes>120</cpu_scheduling_period_minutes>
+
+   <daily_xfer_limit_mb>0</daily_xfer_limit_mb>
+   <daily_xfer_period_days>0</daily_xfer_period_days>
+</global_preferences>

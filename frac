@@ -1,0 +1,2 @@
+#!/bin/sh
+boinccmd --get_tasks|grep fraction

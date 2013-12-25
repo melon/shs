@@ -1,0 +1,2 @@
+#!/bin/sh
+boinccmd --project_attach http://www.worldcommunitygrid.org/ e0970812eaac476f1bb155baf4eda0de
