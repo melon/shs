@@ -1,0 +1,2 @@
+#!/bin/sh
+boinccmd --read_global_prefs_override
