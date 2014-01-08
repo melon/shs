@@ -2,7 +2,7 @@
    <run_on_batteries>0</run_on_batteries>
    <run_if_user_active>1</run_if_user_active>
    <run_gpu_if_user_active>1</run_gpu_if_user_active>
-   <suspend_cpu_usage>60.000000</suspend_cpu_usage>
+   <suspend_cpu_usage>90.000000</suspend_cpu_usage>
    <start_hour>0.000000</start_hour>
    <end_hour>0.000000</end_hour>
    <net_start_hour>0.000000</net_start_hour>
@@ -13,7 +13,7 @@
    <dont_verify_images>0</dont_verify_images>
    <work_buf_min_days>0.200000</work_buf_min_days>
    <work_buf_additional_days>0.300000</work_buf_additional_days>
-   <max_ncpus_pct>49.000000</max_ncpus_pct>
+   <max_ncpus_pct>90.000000</max_ncpus_pct>
    <cpu_scheduling_period_minutes>120.000000</cpu_scheduling_period_minutes>
    <disk_interval>60.000000</disk_interval>
    <disk_max_used_gb>10.000000</disk_max_used_gb>
@@ -24,7 +24,7 @@
    <ram_max_used_idle_pct>75.000000</ram_max_used_idle_pct>
    <max_bytes_sec_up>0.000000</max_bytes_sec_up>
    <max_bytes_sec_down>0.000000</max_bytes_sec_down>
-   <cpu_usage_limit>40.000000</cpu_usage_limit>
+   <cpu_usage_limit>90.000000</cpu_usage_limit>
    <daily_xfer_limit_mb>0.000000</daily_xfer_limit_mb>
    <daily_xfer_period_days>0</daily_xfer_period_days>
 </global_preferences>
