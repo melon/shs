@@ -1,1 +1,2 @@
 */5 * * * * sh /var/lib/boinc-client/shs/batch-abort
+*/10 * * * * sh /var/lib/boinc-client/shs/ud
